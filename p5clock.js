@@ -17,7 +17,7 @@ push();
 if (hr > 12 ){
   background(25,25,112);
 } else if(hr < 12){
-  background(255, 174, 66);
+  background(255,255,224);
 }
 pop();
 
